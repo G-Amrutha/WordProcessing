@@ -1,4 +1,4 @@
-## Word Processing Game
+## Word Processing
 
 This project is a C++ implementation of a word processing game, developed as part of an assignment for COMP 1602. The game involves converting words into numerical representations based on their alphabetical positions and applying certain processing rules.
 
