@@ -4,7 +4,7 @@ This project is a C++ implementation of a word processing game, developed as par
 
 ## Files
 
-- `816117625.cpp`: The main C++ source file containing the implementation of the word processing logic.
+- `WordGame.cpp`: The main C++ source file containing the implementation of the word processing logic.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ This project is a C++ implementation of a word processing game, developed as par
 1. **Compile the program** using a C++ compiler:
 
    ```bash
-   g++ -o word_game 816117625.cpp
+   g++ -o word_game WordGame.cpp
    ```
 
 2. **Run the executable**:
